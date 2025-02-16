@@ -39,7 +39,7 @@
 Данные загружены из CSV-файлов через DBeaver. 
 
 <details>
-  <summary>Dbeaver ER diagram</summary>
+  <summary>Данные</summary>
   
   ![Импорт данных](data_verify.jpg)
   
